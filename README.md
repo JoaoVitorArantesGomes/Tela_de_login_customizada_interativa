@@ -42,10 +42,12 @@ Depois é só abrir o arquivo `index.html` no navegador.
 
 ## 📁 Estrutura do projeto
 
+```
 Tela_de_login_customizada_interativa/
-├── index.html # Estrutura da página
-├── style.css # Estilo, cores e animações
-└── script.js # Interações e lógica da interface
+├── index.html   # Estrutura da página
+├── style.css    # Estilo, cores e animações
+└── script.js    # Interações e lógica da interface
+```
 
 
 ---
