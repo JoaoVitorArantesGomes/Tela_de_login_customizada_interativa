@@ -57,4 +57,4 @@ Tela_de_login_customizada_interativa/
 **João Vítor Arantes Gomes**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JoaoVitorArantesGomes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ov%C3%ADtorarantes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorarantes/)
