@@ -32,13 +32,12 @@ Interface de **login e cadastro** moderna, colorida e totalmente interativa, fei
 
 ## 🚀 Como visualizar
 
-**Opção 1 — abrir localmente:**
+**✅ Acesse o projeto no ar:** [Ver ao vivo](https://joaovitorarantesgomes.github.io/Tela_de_login_customizada_interativa/)
 
-git clone https://github.com/JoaoVitorArantesGomes/Tela_de_login_customizada_interativa.git
-
-Depois é só abrir o arquivo `index.html` no navegador.
-
-**Opção 2 — hospedar no GitHub Pages** para gerar um link de demonstração online (recomendado para o portfólio).
+Ou rode localmente:
+1. Clone o repositório:
+   `git clone https://github.com/JoaoVitorArantesGomes/Tela_de_login_customizada_interativa.git`
+2. Abra o arquivo `index.html` no navegador
 
 ---
 
@@ -46,9 +45,10 @@ Depois é só abrir o arquivo `index.html` no navegador.
 
 ```
 Tela_de_login_customizada_interativa/
-├── index.html   # Estrutura da página
-├── style.css    # Estilo, cores e animações
-└── script.js    # Interações e lógica da interface
+├── index.html      # Estrutura da página
+├── style.css       # Estilo, cores e animações
+├── script.js       # Interações e lógica da interface
+└── assets/         # Imagens (fundo)
 ```
 
 
